@@ -22,17 +22,17 @@ This repository encapsulates the information related to board dimensions, electr
 ## Hardware Requirement
 
 
-<p align="center"> <img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/hardware.PNG" height="700" width="500" alt="Final BOM">
+<p align="center"> <img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/hardware.PNG" height="700" width="500" alt="Final BOM">
 <br/>
 
 
 ## PCB Dimensions
 
-<p align="center"> <img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/pcb_dim.PNG" height="300" width="300" alt="Overall Board Dimensions">
+<p align="center"> <img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/pcb_dim.PNG" height="300" width="300" alt="Overall Board Dimensions">
 <br/>
 
-<p align="center"><img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/pcb_measure.PNG" height="300" width="300" alt="PCB Dim" hspace="10">
-<img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/bom_final.PNG" height="300" width="300" alt="Final BOM">
+<p align="center"><img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/pcb_measure.PNG" height="300" width="300" alt="PCB Dim" hspace="10">
+<img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/bom_final.PNG" height="300" width="300" alt="Final BOM">
 
 
 # Software
