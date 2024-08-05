@@ -100,15 +100,6 @@ The
 https://github.com/user-attachments/assets/51d89cce-b28e-4baa-b23c-206a33709b13
 
 
-
-### To test the camera output - 
-
-1. Note down the system's IP
-2. Navigate to sensor_tests/Picamera_test directory
-3. Run the test_picam2.py
-4. Head to the following page - http://{IP_ADDRESS}:8000/index.html
-
-
 # Control
 
 ## Pitch Control
