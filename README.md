@@ -39,7 +39,7 @@ This repository encapsulates the information related to board dimensions, electr
 
 ## Software Pre-Requisites
 
-1. Clone the Spherical-Bot repository
+1. Clone the "spbot" folder from the repository
 2. Install all the required dependencies -> 
 ```
 pip install -r requirements.txt
@@ -82,7 +82,7 @@ The Camera being used is the Waveshare OV5647 220FOV Camera -
 1. Note down the system's IP
 2. Navigate to sensor_tests/Picamera_test directory
 3. Run the test_picam2.py
-4. Head to the following page - http://{IP_ADDRESS}:8000/index.html
+4. Head to the following page - http://{IP_ADDRESS or spbot.local}:5000/
 
 
 ## Forward Motion
