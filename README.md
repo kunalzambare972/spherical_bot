@@ -4,10 +4,10 @@ This repository encapsulates the information related to board dimensions, electr
 
 ## Table of Contents
 
-* [Hardware](https://github.com/AkshayLaddha943/Spherical-Bot?tab=readme-ov-file#hardware)
+* [Hardware](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#hardware)
   * [Hardware Requirement](#hardware-requirements)
   * [PCB Dimensions](#pcb-dimensions)
-* [Software](https://github.com/AkshayLaddha943/Spherical-Bot?tab=readme-ov-file#software)
+* [Software](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#software)
   * [Software Pre-Requisites](#software-pre-requisites)
   * [IMU Test](#imu-test)
   * [Picamera Test](#picamera-test)
@@ -69,13 +69,13 @@ The IMU being used is the Bosch 9-axis BNO-055 sensor -
 
 The Camera being used is the Waveshare OV5647 220FOV Camera -
 
-<p align="center"> <img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/ov5647.PNG" height="300" width="300" alt="Camera">
+<p align="center"> <img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/ov5647.PNG" height="300" width="300" alt="Camera">
 <br/>
 
 ### Viewing the output from camera
 
-<p align="center"><img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/picamera_view.jpg" height="300" width="300" alt="Cam_output" hspace="10">
-<img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/picam_opencv.PNG" height="300" width="300" alt="Cam_fw_output">
+<p align="center"><img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/picamera_view.jpg" height="300" width="300" alt="Cam_output" hspace="10">
+<img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/picam_opencv.PNG" height="300" width="300" alt="Cam_fw_output">
 
 ### To test the camera output - 
 
