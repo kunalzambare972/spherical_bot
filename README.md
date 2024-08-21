@@ -12,7 +12,7 @@ This repository encapsulates the information related to board dimensions, electr
   * [IMU Test](#imu-test)
   * [Picamera Test](#picamera-test)
   * [Forward Motion](#forward-motion)
-* [Control](https://github.com/AkshayLaddha943/Arrow_SensorFusion_turtlebot3_ws#installing-required-rosdep-packages-and-dependencies)
+* [Control](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#control)
   * [Pitch Control](#software-installation)
   * [Roll Control](#software-configuration)
 
@@ -56,8 +56,8 @@ The IMU being used is the Bosch 9-axis BNO-055 sensor -
 
 ### Plotting the IMU result
 
-<p align="center"><img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/imu.PNG" height="300" width="300" alt="IMU_command_line" hspace="10">
-<img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/rpy_updated.PNG" height="300" width="300" alt="IMU_graph">
+<p align="center"><img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/imu.PNG" height="300" width="300" alt="IMU_command_line" hspace="10">
+<img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/rpy_updated.PNG" height="300" width="300" alt="IMU_graph">
 
 ### To test the IMU output - 
 
