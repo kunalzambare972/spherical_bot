@@ -11,7 +11,7 @@ This repository encapsulates the information related to board dimensions, electr
   * [Software Pre-Requisites](#software-pre-requisites)
   * [IMU Test](#imu-test)
   * [Picamera Test](#picamera-test)
-  * [Forward Motion](#forward-motion)
+  * [Robot Motion](#robot-motion)
 * [Control](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#control)
   * [Pitch Control](#pitch-control)
   * [Roll Control](#roll-control)
@@ -50,9 +50,9 @@ This repository encapsulates the information related to board dimensions, electr
 git clone https://github.com/kunalzambare972/sp-bot.git
 
 ```
-3. Authenticate
-   When prompted for a username, enter your GitHub username.
-   When prompted for a username, enter your GitHub username.
+3. Authenticate<br/>
+   i.When prompted for a username, enter your GitHub username.<br/>
+   ii.When prompted for a username, enter your GitHub username.<br/>
    
 4. Enter the Repository Directory
 
@@ -64,6 +64,7 @@ cd sp-bot
 ```
 pip install -r requirements.txt
 ```
+The above the steps would help to setup the raspberrypi sdcard for the operation of the robot
 
 ## IMU Test
 
@@ -103,9 +104,7 @@ The Camera being used is the Waveshare OV5647 220FOV Camera -
 4. Head to the following page - http://{IP_ADDRESS or spbot.local}:5000/
 
 
-## Forward Motion
-
-## Moving the robot forward
+## Robot Motion
 
 The following clip shows the robot's forward movement - 
 
