@@ -38,8 +38,8 @@ This repository encapsulates the information related to board dimensions, electr
 # Software
 
 ## Software Pre-Requisites
-1. Firstly we need to clone the software package github repositroy in raspberry pi file system. Since the repository is private you need to generate a personal access token for cloning the directory
-  To generate a personal access token :-
+1. Firstly we need to clone the software package github repositroy in raspberry pi file system. Since the repository is private you need to generate a personal access token for cloning the directory<br/>
+  To generate a personal access token :-<br/>
    i. Go to your Github Settings >> Developer Settings >> Personal Access Tokens.<br/>
    ii. Then click on classic token.<br/>
    iii. Select the expiration date and select "repo" in scopes for full control of private repository.<br/>
