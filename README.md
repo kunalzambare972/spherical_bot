@@ -92,14 +92,14 @@ The Camera being used is the Waveshare OV5647 220FOV Camera -
 The following clip shows the robot's forward movement - 
 
 <video width="600" controls>
-<source src="https://raw.githubusercontent.com/kunalzambare972/spherical_bot/main/videos/forward_motion_2.mp4" type="video/mp4">
+<source src="https://github.com/kunalzambare972/spherical_bot/raw/main/videos/forward_motion_2.mp4" type="video/mp4">
 </video>
 
 
 The following clip shows the robot's forward and backward movement -
 
 <video width="600" controls>
-<source src="https://raw.githubusercontent.com/kunalzambare972/spherical_bot/main/videos/forward_motion_backward_motion_1.mp4" type="video/mp4">
+<source src="https://github.com/kunalzambare972/spherical_bot/raw/main/videos/forward_motion_backward_motion_1.mp4" type="video/mp4">
 </video>
 
 
