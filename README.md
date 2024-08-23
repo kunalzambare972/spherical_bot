@@ -40,10 +40,10 @@ This repository encapsulates the information related to board dimensions, electr
 ## Software Pre-Requisites
 1. Firstly we need to clone the software package github repositroy in raspberry pi file system. Since the repository is private you need to generate a personal access token for cloning the directory
   To generate a personal access token :-
-  i. Go to your Github Settings >> Developer Settings >> Personal Access Tokens.
-  ii. Then click on classic token.
-  iii. Select the expiration date and select "repo" in scopes for full control of private repository.
-  iv. Generate and copy the token. Keep it safe; you won't be able to see it again.
+  1. Go to your Github Settings >> Developer Settings >> Personal Access Tokens.
+  2. Then click on classic token.
+  3. Select the expiration date and select "repo" in scopes for full control of private repository.
+  4. Generate and copy the token. Keep it safe; you won't be able to see it again.
 
 2. Now open the terminal and run for cloning "sp-bot" repository
 ```
