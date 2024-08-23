@@ -6,7 +6,7 @@ This repository encapsulates the information related to board dimensions, electr
 
 * [Hardware](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#hardware)
   * [Hardware BOM](#hardware-bom)
-  * [PCB Layout and BOM](#pcb-dimensions)
+  * [PCB Layout and BOM](#pcb-bom-and-layout)
 * [Software](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#software)
   * [Software Pre-Requisites](#software-pre-requisites)
   * [IMU Test](#imu-test)
@@ -26,7 +26,7 @@ This repository encapsulates the information related to board dimensions, electr
 <br/>
 
 
-## PCB Dimensions
+## PCB BOM and Layout
 
 <p align="center"> <img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/bom_final.PNG" height="700" width="500" alt="Final BOM">
 <br/>
