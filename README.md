@@ -5,7 +5,7 @@ This repository encapsulates the information related to board dimensions, electr
 ## Table of Contents
 
 * [Hardware](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#hardware)
-  * [Hardware Requirement](#hardware-requirements)
+  * [Hardware Requirement](#hardware-bom)
   * [PCB Dimensions](#pcb-dimensions)
 * [Software](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#software)
   * [Software Pre-Requisites](#software-pre-requisites)
@@ -19,7 +19,7 @@ This repository encapsulates the information related to board dimensions, electr
 
 # Hardware
 
-## Hardware Requirement
+## Hardware BOM
 
 
 <p align="center"> <img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/hardware.PNG" height="700" width="500" alt="Final BOM">
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 The IMU being used is the Bosch 9-axis BNO-055 sensor -
 
-<p align="center"> <img src="https://github.com/AkshayLaddha943/Spherical-Bot/blob/main/imgs/bno_055_imu.jpg" height="300" width="300" alt="BNO_IMU">
+<p align="center"> <img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/bno_055_imu.jpg" height="300" width="300" alt="BNO_IMU">
 <br/>
 
 ### Plotting the IMU result
@@ -91,13 +91,13 @@ The Camera being used is the Waveshare OV5647 220FOV Camera -
 
 The following clip shows the robot's forward movement - 
 
-https://github.com/user-attachments/assets/5aabcf7d-3285-4010-ae62-a8122f7702a7
+https://raw.githubusercontent.com/kunalzambare972/spherical_bot/main/videos/forward_motion_2.mp4
 
 
 The 
 
 
-https://github.com/user-attachments/assets/51d89cce-b28e-4baa-b23c-206a33709b13
+https://raw.githubusercontent.com/kunalzambare972/spherical_bot/main/videos/forward_motion_backward_motion_1.mp4
 
 
 # Control
