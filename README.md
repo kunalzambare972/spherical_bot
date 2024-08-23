@@ -45,7 +45,7 @@ This repository encapsulates the information related to board dimensions, electr
    i. Download Raspberry Pi Imager from the official website of raspberry pi.<br/>
 
 2. Install Raspberry Pi Imager<br/>
-   i. Windows/Mac: Run the downloaded installer and follow the on-screen instructions.
+   i. Windows/Mac: Run the downloaded installer and follow the on-screen instructions.<br/>
    ii. Linux: For Ubuntu, you can install it directly via the terminal:
    ```
    sudo apt install rpi-imager
