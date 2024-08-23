@@ -8,6 +8,7 @@ This repository encapsulates the information related to board dimensions, electr
   * [Hardware BOM](#hardware-bom)
   * [PCB Layout and BOM](#pcb-bom-and-layout)
 * [Software](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#software)
+  * [SD Card Setup](#sd-card-setup)
   * [Software Pre-Requisites](#software-pre-requisites)
   * [IMU Test](#imu-test)
   * [Picamera Test](#picamera-test)
@@ -37,6 +38,34 @@ This repository encapsulates the information related to board dimensions, electr
 
 # Software
 
+## SD Card Setup
+
+1. Download the Raspberry Pi Imager<br/>
+   The easiest way to set up an SD card is by using the Raspberry Pi Imager tool.<br/>
+   i. Download Raspberry Pi Imager from the official website of raspberry pi.<br/>
+
+2. Install Raspberry Pi Imager<br/>
+   i. Windows/Mac: Run the downloaded installer and follow the on-screen instructions.
+   ii. Linux: For Ubuntu, you can install it directly via the terminal:
+   ```
+   sudo apt install rpi-imager
+   ```
+3. Insert the microSD card into your computer using an SD card reader.
+4. Launch Raspberry Pi Imager on your computer.
+5. Choose the Device in Raspberry Pi Imager which is Raspberry Pi Zero W.
+6. Choose the OS in Raspberry Pi Imager which is Raspberry Pi OS (32-bit)- Debian Bookworm.
+7. Select the SD Card which is connected to the computer.
+8. Advanced Settings<br/>
+   i. Access the advanced settings by pressing "Ctrl+Shift+X" before clicking Next/Write.<br/>
+   ii. Set the hostname to "spbot"<br/>
+   iii. Set the username as "sp"<br/>
+   iv. Set your password.<br/>
+   v. Configure Wi-Fi: Enter your Wi-Fi SSID and password if you want the Raspberry Pi to connect to Wi-Fi automatically.<br/>
+   vi. Enable the SSH in the Services Section of Advanced Settings.<br/>
+   vii. Click on "SAVE"<br/>
+9. Click on Next/ Write and the Raspberry Pi Imager would start to write the SD card with Raspberry Pi OS(Linux).
+10. Once done eject the SD card from the computer and insert it into Raspberry Pi for first boot.
+    
 ## Software Pre-Requisites
 1. Firstly we need to clone the software package github repositroy in raspberry pi file system. Since the repository is private you need to generate a personal access token for cloning the directory<br/>
   To generate a personal access token :-<br/>
