@@ -5,16 +5,16 @@ This repository encapsulates the information related to board dimensions, electr
 ## Table of Contents
 
 * [Hardware](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#hardware)
-  * [Hardware Requirement](#hardware-bom)
-  * [PCB Dimensions](#pcb-dimensions)
+  * [Hardware BOM](#hardware-bom)
+  * [PCB Layout and BOM](#pcb-dimensions)
 * [Software](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#software)
   * [Software Pre-Requisites](#software-pre-requisites)
   * [IMU Test](#imu-test)
   * [Picamera Test](#picamera-test)
   * [Forward Motion](#forward-motion)
 * [Control](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#control)
-  * [Pitch Control](#software-installation)
-  * [Roll Control](#software-configuration)
+  * [Pitch Control](#pitch-control)
+  * [Roll Control](#roll-control)
 
 
 # Hardware
@@ -28,11 +28,11 @@ This repository encapsulates the information related to board dimensions, electr
 
 ## PCB Dimensions
 
-<p align="center"> <img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/pcb_dim.PNG" height="300" width="300" alt="Overall Board Dimensions">
+<p align="center"> <img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/bom_final.PNG" height="700" width="500" alt="Final BOM">
 <br/>
 
 <p align="center"><img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/pcb_measure.PNG" height="300" width="300" alt="PCB Dim" hspace="10">
-<img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/bom_final.PNG" height="300" width="300" alt="Final BOM">
+<img src="https://github.com/kunalzambare972/spherical_bot/blob/main/imgs/pcb_dim.PNG" height="300" width="300" alt="Overall Board Dimension">
 
 
 # Software
