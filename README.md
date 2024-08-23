@@ -38,14 +38,32 @@ This repository encapsulates the information related to board dimensions, electr
 # Software
 
 ## Software Pre-Requisites
+1. Firstly we need to clone the software package github repositroy in raspberry pi file system. Since the repository is private you need to generate a personal access token for cloning the directory
+  To generate a personal access token :-
+  i. Go to your Github Settings >> Developer Settings >> Personal Access Tokens.
+  ii. Then click on classic token.
+  iii. Select the expiration date and select "repo" in scopes for full control of private repository.
+  iv. Generate and copy the token. Keep it safe; you won't be able to see it again.
 
-1. Clone the "spbot" folder from the repository
-2. Install all the required dependencies -> 
+2. Now open the terminal and run for cloning "sp-bot" repository
+```
+git clone https://github.com/kunalzambare972/sp-bot.git
+
+```
+3. Authenticate
+   When prompted for a username, enter your GitHub username.
+   When prompted for a username, enter your GitHub username.
+   
+4. Enter the Repository Directory
+
+```
+cd sp-bot
+```
+   
+5. Install all the required dependencies  
 ```
 pip install -r requirements.txt
 ```
-
-3. Run the scripts
 
 ## IMU Test
 
