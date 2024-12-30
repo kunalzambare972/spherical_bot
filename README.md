@@ -2,6 +2,8 @@
 
 This repository encapsulates the information related to board dimensions, electronics, sensors and its testing scripts, to controller node for the development of Spherical Bot 2.0
 
+For the software parts and test scrpits of the robot go to this repo : (https://github.com/kunalzambare972/sp-bot) 
+
 ## Table of Contents
 
 * [Hardware](https://github.com/kunalzambare972/spherical_bot?tab=readme-ov-file#hardware)
